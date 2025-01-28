@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 import seaborn as sb
 import matplotlib.pyplot as plt
-import missingno as msno
-import autoreload
 import warnings
 import os
 import csv
